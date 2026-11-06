@@ -1,0 +1,11 @@
+.streamlit/secrets.toml*
+!.streamlit/secrets.toml.example
+.env
+*.json
+!assets/*.json
+__pycache__/
+.venv/
+.pytest_cache/
+
+.venv*/
+*.zip

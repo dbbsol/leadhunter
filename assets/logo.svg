@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 48" width="240" height="48">
+  <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ff5a5f"/><stop offset="1" stop-color="#f5b95b"/></linearGradient></defs>
+  <rect x="4" y="8" width="30" height="30" rx="9" transform="rotate(-12 19 23)" fill="url(#g)"/>
+  <text x="46" y="25" font-family="Outfit, 'Segoe UI', Arial, sans-serif" font-size="21" font-weight="700" fill="#f3eee8">Lead Hunter</text>
+  <text x="47" y="40" font-family="'JetBrains Mono', Consolas, monospace" font-size="9.5" fill="#a39d98" letter-spacing="0.6">Soluções empresariais</text>
+</svg>
